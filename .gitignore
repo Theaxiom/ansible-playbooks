@@ -56,3 +56,8 @@ Thumbs.db
 # Virtualenv
 ##########
 venv/
+
+# IntelliJ
+##########
+*.iml
+.idea/
